@@ -1,6 +1,6 @@
 # BookEd
 
-This is the beginning a project to create a document management system specifically for Open Text Books. The thought is to create a GitHub-esque document system which will make it easy to contribute, fork, and generate multiple electronic formats of books.
+This is the beginning of a project to create a document management system specifically for Open Text Books. The thought is to create a GitHub-esque document system which will make it easy to contribute, fork, and generate multiple electronic formats of books.
 
 ## Framework
 
