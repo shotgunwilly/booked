@@ -12,7 +12,7 @@ The application will be designed to deploy on [Heroku](http://www.heroku.com)
 
 ### Deployment Instructions
 
-tbd
+TBD
 
 ## Directory Layout
     
